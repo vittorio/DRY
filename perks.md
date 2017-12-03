@@ -1,10 +1,5 @@
-Hello {username}! My name's Victor. 
-And i'm a javascript developer with 6 years experience.
-This's my short story.
-
 ###### still in progress...
 
-# My perks
 ## Frontend
 #### Layout
 - html5 (including js apis)
@@ -39,6 +34,3 @@ This's my short story.
 ## Extensions development
 - Chrome
 - Firefox (Web Extensions)
-
-# My works
-###### still in progress...
