@@ -9,4 +9,4 @@ Call me Vittorio btw ;)
 Everything you need is here:
 
 - What do i want and what will u get in return
-- My perks
+- [My perks](https://github.com/vittorio/DRY/blob/master/perks.md)
