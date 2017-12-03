@@ -1,18 +1,16 @@
-Hello {username}!
-
-My name's Victor. 
-
+Hello {username}! My name's Victor. 
 And i'm a javascript developer with 6 years experience.
-
-
 This's my short story.
 
 ###### still in progress...
 
+# My perks
 ## Frontend
 #### Layout
 - html5 (including js apis)
-- css3 (including transitions, transforms and keyframes)
+- css3 (including media queries, transitions, transforms and keyframes)
+- sass/scss/less/stylus
+- bootstrap 3/4, foundation, clarity, 
 - responsive, adaptive layouts
 - mobile first, graceful degradation patterns
 
@@ -22,6 +20,7 @@ This's my short story.
 - typescript
 - backbone.js / marionette.js
 - javascriptMVC
+- jquery
 - angular.js
 - angular 2/4/5/x
 - react.js
@@ -40,3 +39,6 @@ This's my short story.
 ## Extensions development
 - Chrome
 - Firefox (Web Extensions)
+
+# My works
+###### still in progress...
