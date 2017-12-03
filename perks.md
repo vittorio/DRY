@@ -19,6 +19,8 @@
 - angular.js
 - angular 2/4/5/x
 - react.js
+- gulp / grunt
+- webpack
 
 #### Testing
 - mocha + chai + synon stack
@@ -34,3 +36,10 @@
 ## Extensions development
 - Chrome
 - Firefox (Web Extensions)
+
+## Others
+- Photoshop
+- Sketch
+- Figma
+- Zeplin / Avocode
+- Git / Mercurial
